@@ -1,0 +1,30 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(§„ ¹
+_
+java:S1854"=Remove this useless assignment to local variable "timestamp".(«®†Æúÿÿÿÿ8éİ¿Û/
+P
+java:S1481".Remove this unused "timestamp" local variable.(«®†Æúÿÿÿÿ8ìİ¿Û/
+X	java:S125"<This block of commented-out lines of code should be removed.(ÊÑ8©³¿Û/
+]	java:S125 "<This block of commented-out lines of code should be removed.(ŞôÜäøÿÿÿÿ8íİ¿Û/
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(·Ë§¢
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(•©îè
+O
+java:S4719B"9Replace charset name argument with StandardCharsets.UTF_8(š¹‹¤
+T
+java:S4719G"9Replace charset name argument with StandardCharsets.UTF_8(á³Éúÿÿÿÿ
+O
+java:S4719t"9Replace charset name argument with StandardCharsets.UTF_8(š¹‹¤
+T
+java:S4719y"9Replace charset name argument with StandardCharsets.UTF_8(á³Éúÿÿÿÿ
+\
+java:S1192B"FDefine a constant instead of duplicating this literal "UTF-8" 4 times.(š¹‹¤
+2
+java:S1643Q"Use a StringBuilder instead.(»©Úá
+7
+java:S1643S"Use a StringBuilder instead.(¦í°—øÿÿÿÿ
+3
+java:S1643ƒ"Use a StringBuilder instead.(»©Úá
+8
+java:S1643…"Use a StringBuilder instead.(¦í°—øÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(§„ ¹

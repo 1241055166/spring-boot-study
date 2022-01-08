@@ -1,0 +1,38 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÄÊĞ8
+\	java:S112«"FDefine and throw a dedicated exception instead of using a generic one.(Ÿ½”
+J
+java:S3740["/Provide the parametrized type for this generic.(»Úİ½ıÿÿÿÿ
+F
+java:S3740¸"/Provide the parametrized type for this generic.(öÖÿÂ
+F
+java:S3740Š"/Provide the parametrized type for this generic.(²À‡À
+K
+java:S3740¢"/Provide the parametrized type for this generic.(×ÅÑÿÿÿÿÿ
+B
+java:S1168ß"+Return an empty collection instead of null.(¥¹ï
+B
+java:S1168Ö"+Return an empty collection instead of null.(¥¹ï
+W	java:S125ğ"<This block of commented-out lines of code should be removed.(°‡ôøÿÿÿÿ
+{
+java:S1488Ä"_Immediately return this expression instead of assigning it to the temporary variable "entries".(àô´¹øÿÿÿÿ
+u
+java:S1488÷"_Immediately return this expression instead of assigning it to the temporary variable "success".(õ¯Û
+t
+java:S1488¿"]Immediately return this expression instead of assigning it to the temporary variable "count".(ıÿî¢
+z
+java:S1488ß"^Immediately return this expression instead of assigning it to the temporary variable "remove".(²ĞÉàıÿÿÿÿ
+w
+java:S1488ñ"[Immediately return this expression instead of assigning it to the temporary variable "add".(×œÈ°ûÿÿÿÿ
+t
+java:S1488ı"]Immediately return this expression instead of assigning it to the temporary variable "score".(‡ş²ß
+w
+java:S1488Š"[Immediately return this expression instead of assigning it to the temporary variable "set".(ÆúÕŞÿÿÿÿÿ
+r
+java:S1488—"[Immediately return this expression instead of assigning it to the temporary variable "set".(ßÊÑÁ
+w
+java:S1488£"[Immediately return this expression instead of assigning it to the temporary variable "add".(Àıæ¾ûÿÿÿÿ
+o
+java:S1488¯"YImmediately return this expression instead of assigning it to the temporary variable "l".(òâ—p
+z
+java:S1488¹"^Immediately return this expression instead of assigning it to the temporary variable "remove".(•Ã£ùÿÿÿÿ

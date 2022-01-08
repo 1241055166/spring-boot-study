@@ -1,0 +1,10 @@
+
+R
+java:S18543"<Remove this useless assignment to local variable "titleRow".(÷Ç¸«
+C
+java:S14813"-Remove this unused "titleRow" local variable.(÷Ç¸«
+m
+java:S3776M"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ø£ÃŸùÿÿÿÿ
+s	java:S135["YReduce the total number of break and continue statements in this loop to use at most one.(Î¦¢´üÿÿÿÿ
+E
+java:S5411+"*Use the primitive boolean expression here.(ÑÉ‚İûÿÿÿÿ

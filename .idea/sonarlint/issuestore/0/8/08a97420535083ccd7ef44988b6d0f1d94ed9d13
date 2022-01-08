@@ -1,0 +1,21 @@
+
+I
+java:S1874""3Remove this use of "description"; it is deprecated.(ˆ„Àä
+c
+java:S4488'"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(øØÿüÿÿÿÿ
+k
+java:S32522"UUse static access with "cn.afterturn.easypoi.entity.vo.BasePOIConstants" for "CLASS".(ç¢µ¿
+l
+java:S32523"VUse static access with "cn.afterturn.easypoi.entity.vo.BasePOIConstants" for "PARAMS".(¢’ÆÄ
+n
+java:S32524"YUse static access with "cn.afterturn.easypoi.entity.vo.BasePOIConstants" for "FILE_NAME".(İ…Å
+e
+java:S44889"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"( ßİéşÿÿÿÿ
+c
+java:S4488K"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(·¶óáıÿÿÿÿ
+k
+java:S3252T"UUse static access with "cn.afterturn.easypoi.entity.vo.BasePOIConstants" for "CLASS".(®“ëÄ
+l
+java:S3252U"VUse static access with "cn.afterturn.easypoi.entity.vo.BasePOIConstants" for "PARAMS".(¢’ÆÄ
+o
+java:S3252V"YUse static access with "cn.afterturn.easypoi.entity.vo.BasePOIConstants" for "FILE_NAME".(Üë¬û

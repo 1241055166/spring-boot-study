@@ -1,0 +1,10 @@
+
+L
+java:S1068"*Remove this unused "logger" private field.(ÿÅ„ÿÿÿÿÿ8çì°Ü/
+c
+java:S1192"FDefine a constant instead of duplicating this literal "order" 3 times.(ìúÿ×8 ‡¸³Ü/
+
+java:S1488+"]Immediately return this expression instead of assigning it to the temporary variable "order".(¿Ó–ìøÿÿÿÿ8Îå±³Ü/
+y
+java:S14889"\Immediately return this expression instead of assigning it to the temporary variable "list".(şùïÆ8¡‡¸³Ü/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ä¾ç±

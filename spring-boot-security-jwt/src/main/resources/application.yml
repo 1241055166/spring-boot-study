@@ -1,0 +1,26 @@
+spring:
+  application:
+    name: securityjwt
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/springboot_study?characterEncoding=utf-8&useSSL=false&serverTimezone=UTC
+    username: root
+    password: root
+
+server:
+  port: 8080
+
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.henry.securityjwt.entity
+  configuration:
+    map-underscore-to-camel-case: true
+
+rsa:
+  key:
+    pubKeyFile: /Users/huangjiawen/code/spring-boot-study/spring-boot-security-jwt/src/main/java/com/henry/jwt/id_key_rsa.pub
+    priKeyFile: /Users/huangjiawen/code/spring-boot-study/spring-boot-security-jwt/src/main/java/com/henry/jwt/id_key_rsa
+
+
+
+

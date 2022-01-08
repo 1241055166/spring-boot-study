@@ -1,0 +1,11 @@
+
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.( ®­üÿÿÿÿ8›Ã’É/
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(òÄ½Í8œÃ’É/
+x
+java:S1488""[Immediately return this expression instead of assigning it to the temporary variable "map".(Ÿİù¹8ŸÃ’É/
+}
+java:S14880"[Immediately return this expression instead of assigning it to the temporary variable "map".(úĞã©úÿÿÿÿ8 Ã’É/
+x
+java:S1488@"[Immediately return this expression instead of assigning it to the temporary variable "map".(ö¿ş‚8 Ã’É/
+x
+java:S1488Q"[Immediately return this expression instead of assigning it to the temporary variable "map".(Íş”£8¡Ã’É/

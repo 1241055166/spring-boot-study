@@ -1,0 +1,30 @@
+2021-12-16 15:59:53 [main] INFO  c.h.SpringBootSecurityJwtApplication - Starting SpringBootSecurityJwtApplication using Java 1.8.0_131 on huangjiawendeMacBook-Pro.local with PID 10023 (/Users/huangjiawen/code/spring-boot-study/spring-boot-security-jwt/target/classes started by huangjiawen in /Users/huangjiawen/code/spring-boot-study)
+2021-12-16 15:59:53 [main] INFO  c.h.SpringBootSecurityJwtApplication - No active profile set, falling back to default profiles: default
+2021-12-16 15:59:54 [main] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2021-12-16 15:59:55 [main] INFO  io.undertow - starting server: Undertow - 2.2.3.Final
+2021-12-16 15:59:55 [main] INFO  org.xnio - XNIO version 3.8.0.Final
+2021-12-16 15:59:55 [main] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.0.Final
+2021-12-16 15:59:55 [main] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2021-12-16 15:59:55 [main] INFO  c.h.SpringBootSecurityJwtApplication - Started SpringBootSecurityJwtApplication in 2.604 seconds (JVM running for 3.296)
+2021-12-16 16:02:44 [XNIO-1 task-1] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-16 16:02:44 [XNIO-1 task-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-12-16 16:02:44 [XNIO-1 task-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-12-16 16:31:51 [SpringContextShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.3.Final
+2021-12-16 16:31:51 [SpringContextShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2021-12-16 16:31:51 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2021-12-16 16:31:51 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2021-12-16 16:34:25 [main] INFO  c.h.SpringBootSecurityJwtApplication - Starting SpringBootSecurityJwtApplication using Java 1.8.0_131 on huangjiawendeMacBook-Pro.local with PID 11712 (/Users/huangjiawen/code/spring-boot-study/spring-boot-security-jwt/target/classes started by huangjiawen in /Users/huangjiawen/code/spring-boot-study)
+2021-12-16 16:34:25 [main] INFO  c.h.SpringBootSecurityJwtApplication - No active profile set, falling back to default profiles: default
+2021-12-16 16:34:26 [main] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2021-12-16 16:34:27 [main] INFO  io.undertow - starting server: Undertow - 2.2.3.Final
+2021-12-16 16:34:27 [main] INFO  org.xnio - XNIO version 3.8.0.Final
+2021-12-16 16:34:27 [main] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.0.Final
+2021-12-16 16:34:27 [main] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2021-12-16 16:34:27 [main] INFO  c.h.SpringBootSecurityJwtApplication - Started SpringBootSecurityJwtApplication in 2.296 seconds (JVM running for 2.972)
+2021-12-16 16:34:34 [XNIO-1 task-1] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-16 16:34:34 [XNIO-1 task-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-12-16 16:34:34 [XNIO-1 task-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-12-16 16:51:49 [SpringContextShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.3.Final
+2021-12-16 16:51:49 [SpringContextShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2021-12-16 16:51:49 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2021-12-16 16:51:49 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.

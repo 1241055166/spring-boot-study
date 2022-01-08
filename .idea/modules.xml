@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/es-ik/es-ik.iml" filepath="$PROJECT_DIR$/es-ik/es-ik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-rank-top/redis-rank-top.iml" filepath="$PROJECT_DIR$/redis-rank-top/redis-rank-top.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-shop-cart/redis-shop-cart.iml" filepath="$PROJECT_DIR$/redis-shop-cart/redis-shop-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-aop-access-limit/spring-boot-aop-access-limit.iml" filepath="$PROJECT_DIR$/spring-boot-aop-access-limit/spring-boot-aop-access-limit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-datasourse/spring-boot-datasourse.iml" filepath="$PROJECT_DIR$/spring-boot-datasourse/spring-boot-datasourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-easyexcel/spring-boot-easyexcel.iml" filepath="$PROJECT_DIR$/spring-boot-easyexcel/spring-boot-easyexcel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-easypoi/spring-boot-easypoi.iml" filepath="$PROJECT_DIR$/spring-boot-easypoi/spring-boot-easypoi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-elasticsearch-product/spring-boot-elasticsearch-product.iml" filepath="$PROJECT_DIR$/spring-boot-elasticsearch-product/spring-boot-elasticsearch-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-es/spring-boot-es.iml" filepath="$PROJECT_DIR$/spring-boot-es/spring-boot-es.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-insert-large-data-mysql/spring-boot-insert-large-data-mysql.iml" filepath="$PROJECT_DIR$/spring-boot-insert-large-data-mysql/spring-boot-insert-large-data-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-knife4j/spring-boot-knife4j.iml" filepath="$PROJECT_DIR$/spring-boot-knife4j/spring-boot-knife4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-large-file-upload/spring-boot-large-file-upload.iml" filepath="$PROJECT_DIR$/spring-boot-large-file-upload/spring-boot-large-file-upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mongodb/spring-boot-mongodb.iml" filepath="$PROJECT_DIR$/spring-boot-mongodb/spring-boot-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-qrcode/spring-boot-qrcode.iml" filepath="$PROJECT_DIR$/spring-boot-qrcode/spring-boot-qrcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-redis-like/spring-boot-redis-like.iml" filepath="$PROJECT_DIR$/spring-boot-redis-like/spring-boot-redis-like.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-redis-resubmit/spring-boot-redis-resubmit.iml" filepath="$PROJECT_DIR$/spring-boot-redis-resubmit/spring-boot-redis-resubmit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-security-jwt/spring-boot-security-jwt.iml" filepath="$PROJECT_DIR$/spring-boot-security-jwt/spring-boot-security-jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-shiro/spring-boot-shiro.iml" filepath="$PROJECT_DIR$/spring-boot-shiro/spring-boot-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-shiro-jwt/spring-boot-shiro-jwt.iml" filepath="$PROJECT_DIR$/spring-boot-shiro-jwt/spring-boot-shiro-jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-study.iml" filepath="$PROJECT_DIR$/spring-boot-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-watermark/spring-boot-watermark.iml" filepath="$PROJECT_DIR$/spring-boot-watermark/spring-boot-watermark.iml" />
+    </modules>
+  </component>
+</project>
