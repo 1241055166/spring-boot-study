@@ -1,6 +1,0 @@
-
-G
-java:S1068"*Remove this unused "logger" private field.(Å±ÆÞ8Âõ‰°Ü/
-
-java:S1488="]Immediately return this expression instead of assigning it to the temporary variable "order".(ÚîµÊüÿÿÿÿ8ª²´³Ü/
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ý‚³Ùýÿÿÿÿ

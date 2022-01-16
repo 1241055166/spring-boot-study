@@ -1,7 +1,0 @@
-
-[	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(‹£Œì
-`	java:S112M"FDefine and throw a dedicated exception instead of using a generic one.(‡‚èëşÿÿÿÿ
-Z	java:S112\"FDefine and throw a dedicated exception instead of using a generic one.(º¢…q
-P
-java:S1118":Add a private constructor to hide the implicit public one.(Æä‡£
-W	java:S899c"BDo something with the "boolean" value returned by "createNewFile".(ø–Æ

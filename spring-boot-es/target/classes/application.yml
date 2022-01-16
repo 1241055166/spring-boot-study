@@ -1,3 +1,0 @@
-henry:
-  elasticsearch:
-    hostlist: ${eshostlist:127.0.0.1:9200}

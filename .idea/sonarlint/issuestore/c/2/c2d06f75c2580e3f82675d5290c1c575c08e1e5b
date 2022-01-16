@@ -1,9 +1,0 @@
-
-L
-java:S3740"/Provide the parametrized type for this generic.(‚Ê«8Ú´ñ£É/
-L
-java:S3740"/Provide the parametrized type for this generic.(Ñ›à8Ú´ñ£É/
-“
-java:S1130"vRemove the declaration of thrown exception 'java.net.UnknownHostException', as it cannot be thrown from method's body.(Üâş½8İ´ñ£É/
-^
-java:S1117"ARename "redisTemplate" which hides the field declared at line 19.(Ñ›à8İ´ñ£É/
