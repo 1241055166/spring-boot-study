@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.henry.mapper.UserMapper">
+
+    <select id="all" resultType="com.henry.domain.UserDO">
+        SELECT * FROM t_user
+    </select>
+
+    <insert id="add" parameterType="com.henry.domain.UserDO">
+        INSERT INTO `t_user` (`id`, `user_name`, `age`, `create_time`, `tags`) VALUES (#{id}, #{userName}, #{age}, #{createTime}, #{tags})
+    </insert>
+
+    <update id="update" parameterType="com.henry.domain.UserDO">
+        update t_user set user_name=#{userName} where id=#{id}
+    </update>
+
+    <delete id="delete">
+        delete from t_user where id=#{id}
+    </delete>
+</mapper>
