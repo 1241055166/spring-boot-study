@@ -4,6 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.henry</groupId>
     <artifactId>spring-boot-study</artifactId>
+    <packaging>pom</packaging>
     <version>1.0.0-SNAPSHOT</version>
 
     <name>spring-boot-study</name>
@@ -11,6 +12,7 @@
 
     <modules>
     <module>spring-boot-redis-resubmit</module>
+        <module>spring-boot-xcxQrCode</module>
     </modules>
 
     <properties>
