@@ -1,0 +1,24 @@
+package com.henry.$!{cfg.abc}.service.impl;
+
+import com.henry.common.service.impl.CommonServiceImpl;
+import com.henry.$!{cfg.abc}.entity.${entity};
+import com.henry.$!{cfg.abc}.vo.${entity}Vo;
+import com.henry.$!{cfg.abc}.mapper.${entity}Mapper;
+import com.henry.$!{cfg.abc}.service.${entity}Service;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+/**
+ * <p>
+ * $!{table.comment} 服务实现类
+ * </p>
+ *
+ * @author ${author}
+ * @since ${date}
+ */
+@Service
+public class ${table.serviceImplName}  extends CommonServiceImpl<${entity}Vo,${entity}>  implements ${table.serviceName} {
+
+    @Autowired
+    private ${entity}Mapper $!{cfg.abc}Mapper;
+}
