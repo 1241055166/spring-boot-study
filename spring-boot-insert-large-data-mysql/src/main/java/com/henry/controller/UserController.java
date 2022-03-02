@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.concurrent.CountDownLatch;
 
 /**
- * @Description:
+ * @Description: 批量插入1000万条数据
  * @Author: huangjw-b
  * @Date: 2021/12/16
  */
